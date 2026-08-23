@@ -22,7 +22,7 @@ A full-stack Learning Management System built for a military-academy-themed inst
 - **Backend:** PHP (procedural, mysqli with prepared statements)
 - **Database:** MySQL
 - **Frontend:** HTML5, custom CSS design system, Bootstrap 5
-- **JavaScript:** Vanilla JS (no framework) — mobile navigation, password visibility toggle
+- **JavaScript:** mobile navigation, password visibility toggle
 - **Fonts:** Oswald, Inter, JetBrains Mono (Google Fonts)
 - **Hosting:** InfinityFree (free PHP + MySQL hosting)
 - **Version Control:** Git & GitHub
