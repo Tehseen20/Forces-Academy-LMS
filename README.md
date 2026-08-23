@@ -166,7 +166,6 @@ forces-academy-lms/
 │
 ├── database/
 │   ├── schema.sql               → Full database schema — all 9 tables + sample data
-│   └── README.md                 → Setup instructions for the database
 │
 └── README.md                    → This file
 ```
